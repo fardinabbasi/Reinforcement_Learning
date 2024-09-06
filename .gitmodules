@@ -1,0 +1,6 @@
+[submodule "Tabular_RL"]
+	path = Tabular_RL
+	url = https://github.com/fardinabbasi/Tabulated_RL
+[submodule "Deep_RL"]
+	path = Deep_RL
+	url = https://github.com/fardinabbasi/Deep_RL.git
